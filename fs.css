@@ -16,7 +16,7 @@ body { font-size: 14px; letter-spacing: 0.2px; background-image:url(file:/PIC/bg
 .topbanner2 p {font-size: 25px; text-align: center; padding: 10px 10px 0px 10px; color: #f3f3f3; letter-spacing: -1px; text-shadow: brown; text-shadow: 1px 1px 1px black;}
 
 
-.topbanner3 {margin:0 auto;height:auto;width:530px;text-align: center;background-color: #fff;}
+.topbanner3 {margin:0 auto;height:auto;width:auto;text-align: center;background-color: #fff;}
 .topbanner3 img {width: auto;}
 /*TOP BANNER */
 
