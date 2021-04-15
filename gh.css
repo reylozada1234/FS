@@ -12,7 +12,7 @@ body { font-size: 14px; letter-spacing: 0.2px; background-image:url(file:/PIC/bg
 /*TOP BANNER*/
 .topbanner {margin:0 auto; height:214px; width:800px }
 
-.topbanner2 {margin:0 auto; height:90px; width:1280px; background-color: #ef4e22; }
+.topbanner2 {margin:0 auto; height:90px; width:800px; background-color: #ef4e22; }
 .topbanner2 p {font-size: 25px; text-align: center; padding: 10px 10px 0px 10px; color: #f3f3f3; letter-spacing: -1px; text-shadow: brown; text-shadow: 1px 1px 1px black;}
 
 
@@ -24,11 +24,11 @@ body { font-size: 14px; letter-spacing: 0.2px; background-image:url(file:/PIC/bg
 #innerttl {padding: 0px 0px 0px 32px; font-size: 19px; color: #333; font-family: 'Raleway', sans-serif; height: auto; font-weight: bold; font-style:normal; text-transform:uppercase}
 
 
-.main {margin:0 auto; height:auto; width:1280px }
+.main {margin:0 auto; height:auto; width:800px }
 
-.banner1 {margin:0 auto; height:635px; width:1280px;}
+.banner1 {margin:0 auto; height:635px; width:800px;}
 .banner1_dv1 { width:100%; height:400px; background-color:#; float:left; text-align:center }
-.banner1_dv1 p { padding: 18px 0px 18px 0px; margin: 16px 0px 0px 16px; ; font-size:24px; color:#ccc;  font-family: 'Raleway', sans-serif; width:1025px; height:auto; background-color:rgba(0, 0, 0, 0.79) }
+.banner1_dv1 p { padding: 18px 0px 18px 0px; margin: 16px 0px 0px 16px; ; font-size:24px; color:#ccc;  font-family: 'Raleway', sans-serif; width:800px; height:auto; background-color:rgba(0, 0, 0, 0.79) }
 
 .banner1_dv2 { width:40%; height:400px; background-color:#; float:left; }
 .banner1_dv2 div {  margin: 16px 0px 0px 16px; width:390px; height:604px; background-color:rgba(0, 0, 0, 0.79)  }
@@ -69,8 +69,8 @@ body { font-size: 14px; letter-spacing: 0.2px; background-image:url(file:/PIC/bg
 
 
 
-.banner3 { height:auto; width:1280px; background-color:#FFF; float:left;padding-bottom: 0px;}
-.banner3 .banner3_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 1060px; }
+.banner3 { height:auto; width:800px; background-color:#FFF; float:left;padding-bottom: 0px;}
+.banner3 .banner3_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 800px; }
 .banner3 .banner3_dv1 p {padding: 7px 10px 7px 30px;; font-size:22px; color:#FFF;  font-family: 'Oswald', sans-serif;  height:auto; }
 .banner3 .banner3_dv2 { float: left; background-color: white; padding-top: 14px; }
 
@@ -99,7 +99,7 @@ overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; wor
 
 
 .banner3_5 {; height:auto; width:10601280px; background-color:#FFF; float:left}
-.banner3_5 .banner3_5_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 1060px; }
+.banner3_5 .banner3_5_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 800px; }
 .banner3_5 .banner3_5_dv1 p { padding: 7px 10px 7px 30px; font-size:22px; color:#FFF;  font-family: 'Oswald', sans-serif;  height:auto; }
 
 .banner3_5 .banner3_5_dv2 { float:left; background-color:#FFF; width: 100%; height:auto }
@@ -120,7 +120,7 @@ font-style:italic}
 
 
 
-.banner4 {; height:auto; width:1280px; background-color:#FFF; float:left}
+.banner4 {; height:auto; width:800px; background-color:#FFF; float:left}
 .banner4 .banner4_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 1060px; }
 .banner4 .banner4_dv1 p { padding: 7px 10px 7px 30px; font-size:22px; color:#FFF;  font-family: 'Oswald', sans-serif;  height:auto; }
 
@@ -135,12 +135,12 @@ font-style:italic}
 
 
 
-.banner5 { height:auto; width:1280px; background-color:#FFF; float:left; padding-bottom: 30px;}
+.banner5 { height:auto; width:800px; background-color:#FFF; float:left; padding-bottom: 30px;}
 .banner5 .banner5_dv1 { border-bottom: 1px solid #f0f0f0; float:left; background-color:#212121; width: 1060px; }
 .banner5 .banner5_dv1 p { padding: 7px 10px 7px 30px; font-size:22px; color:#FFF;  font-family: 'Oswald', sans-serif;  height:auto; }
 
 .banner5 .banner5_dv2 { float:left; background-color:#FFF; width: 100%; height:auto }
-.banner5 .banner5_dv2 div { background-color:#; width:980px; height:40px; margin:15px 20px 10px 30px; text-align:center }
+.banner5 .banner5_dv2 div { background-color:#; width:800px; height:40px; margin:15px 20px 10px 30px; text-align:center }
 .banner5 .banner5_dv2 div p {  padding: 5px 0px 0px 12px; font-size:22px; color:#2a2a2a;  font-family: 'Oswald', sans-serif; height:auto; font-weight:bold; text-transform:uppercase; text-align:left}
 
 .banner5 .banner5_dv2 div p:before  { content: "i"; color:#ef4e22; padding-right: 10px;font-size: 22px;  }
@@ -163,8 +163,8 @@ font-style:italic}
 
 
 
-.banner6 { height:auto; width:1280px; background-color:#000; float:left}
-.banner6 .banner6_dv1 div { background-color:#06679e; width:1060px; height:50px; text-align:center }
+.banner6 { height:auto; width:800px; background-color:#000; float:left}
+.banner6 .banner6_dv1 div { background-color:#06679e; width:800px; height:50px; text-align:center }
 .banner6 .banner6_dv1 div p {  padding: 11px 0px 0px 15px; font-size:20px; color:#FFF;  font-family: 'Raleway', sans-serif;  height:auto; font-weight:bold }
 
 .banner6 .banner6_dv2 { float: left; }
@@ -224,11 +224,11 @@ font-weight: bold;}
 
 
 /*MIDDLE SECTION START*/
-.middle_bar{ width:1280px; height:auto; float:left; margin-left:3px}
+.middle_bar{ width:800px; height:auto; float:left; margin-left:3px}
 /*MIDDLE SECTION END*/
 
 
-@media (max-width: 1280px) {
+@media (max-width: 800px) {
 	
 .imgwrap {margin:0 auto; float:none}	
 	
