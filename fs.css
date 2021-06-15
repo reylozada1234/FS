@@ -12,7 +12,7 @@ body { font-size: 14px; letter-spacing: 0.2px; background-image:url(file:/PIC/bg
 /*TOP BANNER*/
 .topbanner {margin:0 auto; height:194px; width:1060px }
 
-.topbanner2 {margin:0 auto; height:55px; width:1060px; background-color: #f3f3f3; }
+.topbanner2 {margin:0 auto; height:55px; width:1060px; background-color: #000000FF; }
 .topbanner2 p {font-size: 25px; text-align: center; padding: 10px 10px 0px 10px; color: #111111; letter-spacing: -1px; text-shadow: brown; text-shadow: 1px 1px 1px black;}
 
 
